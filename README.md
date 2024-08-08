@@ -1,3 +1,8 @@
+### 📊 Stats
+
+![teenrage-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=teenrage-dev&show_icons=true&bg_color=00000000)
+
+
 ## Hi there 👋
 
 <!--
